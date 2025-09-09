@@ -1,0 +1,15 @@
+[
+    {
+        "number": 1,
+        "timeStart": "8:30",
+        "timeEnd": "10:00",
+        "date": "01-01-2001",
+        "subject": "Test Lesson",
+        "subgroup": 0,
+        "weekday": 1,
+        "teacher": "John Doe",
+        "auditory": "1/1",
+        "group": "Test Group",
+        "week": 1
+    }
+]
